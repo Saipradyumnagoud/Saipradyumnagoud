@@ -13,7 +13,7 @@
 
 - 👀 I’m interested in web development
 
-- 👨‍💻 All of my projects are available at [saipradyumna.netlify.app](saipradyumna.netlify.app)
+- 👨‍💻 All of my projects are available at <a href="https://saipradyumna.netlify.app/">saipradyumna.in</a>
 
 - 📫 How to reach me **saipradyumnagoud@gmail.com**
 <br/>
