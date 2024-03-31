@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at  <a href="https://saipradyumna.netlify.app/" target="blank">saipradyumna.in</a> 
 
-- 📫 How to reach me **saipradyumnagoud@gmail.com**
+- 📫 How to reach me : links are below
 <br/>
 
 <h3 align="left">Connect with me:</h3>
