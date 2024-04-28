@@ -20,7 +20,7 @@
 while(alive){
 <br/>
   eat();<br/>
-  sleeo();<br/>
+  sleep();<br/>
   code();<br/>
 }
 <br>
