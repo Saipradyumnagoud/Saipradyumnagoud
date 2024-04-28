@@ -18,9 +18,10 @@
 - 📫 How to reach me : links are below
 <br/>
 while(alive){
-  eat();
-  sleeo();
-  code();
+<br/>
+  eat();<br/>
+  sleeo();<br/>
+  code();<br/>
 }
 <br>
 <h3 align="left">Connect with me:</h3>
