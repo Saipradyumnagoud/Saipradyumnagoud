@@ -17,12 +17,13 @@
 
 - 📫 How to reach me : links are below
 <br/>
-while(alive){
-<br/>
-  eat();<br/>
-  sleep();<br/>
-  code();<br/>
-}
+    while(alive)
+  {
+    <br/>
+    eat();<br/>
+    sleep();<br/>
+    code();<br/>
+  }
 <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
