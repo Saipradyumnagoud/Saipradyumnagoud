@@ -7,7 +7,7 @@
   
 - 🌱 I’m currently learning **Nodejs**
 
-- 💬 Ask me about **Front End Web Development**
+- 💬 Ask me about **Frontend Web Development**
   
 - 💞️ I’m looking to collaborate on devOps
 
