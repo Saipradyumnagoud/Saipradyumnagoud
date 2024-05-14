@@ -28,7 +28,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/saipradyumnagoudch" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saipradyumnagoud" height="30" width="40" /></a>
-<a href="https://www.instagram.com/saipradyumnachiragoni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="saipradyumnaa" height="30" width="40" /></a>
+<a href="https://www.instagram.com/saipradyumna_ch" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="saipradyumnaa" height="30" width="40" /></a>
 <a href="https://www.facebook.com/chiragoni.saipradyumna?mibextid=qi2Omg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="saipradyumna" height="30" width="40" /></a>
   <a href="https://stackoverflow.com/users/24272179/sai-pradyumna-goud-chiragoni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/24272179/sai-pradyumna-goud-chiragoni" height="30" width="40" /></a>
   <a href="https://www.codechef.com/users/saipradyumna01" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/saipradyumna01" height="30" width="40" /></a>
