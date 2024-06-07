@@ -8,7 +8,7 @@
 
 - 👋 Hi, I’m @Saipradyumnagoud
   
-- 🌱 I’m currently learning **Nodejs**
+- 🌱 I’m currently learning **MERN**
 
 - 💬 Ask me about **Frontend Web Development**
   
