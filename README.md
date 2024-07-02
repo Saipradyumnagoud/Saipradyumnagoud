@@ -48,3 +48,10 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saipradyumnagoud&show_icons=true&locale=en" alt="saipradyumnagoud" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saipradyumnagoud&" alt="saipradyumnagoud" /></p>
+<table>
+<tr>
+  <td align="center">
+<a href="https://gssoc.girlscript.tech/"><img src="https://media.licdn.com/dms/image/C510BAQGSObrO0QPlMQ/company-logo_200_200/0/1630597186826/girlscriptsoc_logo?e=1722470400&v=beta&t=riGIryHFCH81TLbHmS3YZhyuz4ymzuYKgIXY0MpP14M" width=100px height=100px /><br /><sub><b>GSSoC 2024</b></sub></a>
+ </td>
+</tr>
+</table>
