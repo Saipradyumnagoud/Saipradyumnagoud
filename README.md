@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **Frontend Web Development**
   
-- 💞️ I’m looking to collaborate on devOps
+- 💞️ I’m looking to collaborate on **Full Stack Projects**
 
 - 👀 I’m interested in web development
 
