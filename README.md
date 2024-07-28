@@ -22,14 +22,15 @@
 
 - 📫 How to reach me : links are below
 <br/>
+
+```
     while(alive)
   {
-    <br/>
-    eat();<br/>
-    sleep();<br/>
-    code();<br/>
+    eat();
+    sleep();
+    code();
   }
-  
+```
 <br/>
 <br/>
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&random=false&width=435&lines=%F0%9F%A7%91%E2%80%8D%F0%9F%92%BC+Connect+With+Me+" alt="Typing SVG" /></a>
