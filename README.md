@@ -18,7 +18,8 @@
 
 - 👀 I’m interested in web development
 
-- 👨‍💻 All of my projects are available at  <a href="https://saipradyumna.netlify.app/" target="blank">saipradyumna.in</a> 
+- 👨‍💻 All of my projects are available at  <a href="https://saipradyumnagoud.netlify.app/" target="blank">saipradyumna.in</a> 
+
 
 - 📫 How to reach me : links are below
 <br/>
