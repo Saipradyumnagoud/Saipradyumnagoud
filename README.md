@@ -87,7 +87,7 @@
 
 [![saipradyumnagoud's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=saipradyumnagoud&bg_color=151515&color=9e4c98&line=79ff97&point=818181&area=true&hide_border=true)](https://github.com/saipradyumnagoud/github-readme-activity-graph)
 
-
+<!--
 <a href="https://gssoc.girlscript.tech/"><img src="https://media.licdn.com/dms/image/C510BAQGSObrO0QPlMQ/company-logo_200_200/0/1630597186826/girlscriptsoc_logo?e=1722470400&v=beta&t=riGIryHFCH81TLbHmS3YZhyuz4ymzuYKgIXY0MpP14M" width=100px height=100px /><br /><sub><b>GSSoC 2024</b></sub></a>
-
+-->
    <h3 align="center">Thank You For Supporting 🫶</h3>
