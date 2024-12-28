@@ -14,9 +14,9 @@
 
 - 💬 Ask me about **Frontend Web Development**
   
-- 💞️ I’m looking to collaborate on **Full Stack Projects**
+- 💞️ I’m looking to collaborate on **Full Stack Projects**-->
 
-- 👀 I’m interested in web development -->
+- 👀 I’m interested in software development and building scalable web applications
 
 
 - 👨‍💻 All of my projects are available at  <a href="https://saipradyumnagoud.netlify.app/" target="blank">saipradyumna.in</a> 
