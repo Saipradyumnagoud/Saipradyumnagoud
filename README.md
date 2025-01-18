@@ -26,7 +26,7 @@
 <br/>
 
 ```
-    while(alive)
+    while(success)
   {
     eat();
     sleep();
